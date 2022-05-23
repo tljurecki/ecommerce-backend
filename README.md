@@ -56,5 +56,4 @@ enter your passowrd when prompted
  Click the link to learn how to use this application https://drive.google.com/file/d/1Uh7BuK8AKd_wFmXnUw27lG_brwXVMKRL/view
  
  ## Repository 
- GitHub repo link [
-](https://github.com/tljurecki/ecommerce-backend.git)
+ GitHub repo link https://github.com/tljurecki/ecommerce-backend.git
